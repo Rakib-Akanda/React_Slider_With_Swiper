@@ -1,0 +1,23 @@
+.slide{
+  color: rgb(44, 44, 229);
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.slide1{
+  background-image: url('./assets/slider1.JPG');
+}
+.slide2{
+  background-image: url('./assets/slider2.JPG');
+}
+.slide3{
+  background-image: url('./assets/slider3.JPG');
+}
+.slide4{
+  background-image: url('./assets/slider4.JPG');
+}
